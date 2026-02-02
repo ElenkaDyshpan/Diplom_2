@@ -1,0 +1,7 @@
+main_url='https://stellarburgers.education-services.ru'
+register_url=f'{main_url}/api/auth/register'
+login_url=f'{main_url}/api/auth/login'
+delete_user_url=f'{main_url}/api/auth/user'
+create_order_url=f'{main_url}/api/orders'
+ingredients_url=f'{main_url}/api/ingredients'
+logout_url=f'{main_url}/api/auth/logout'
