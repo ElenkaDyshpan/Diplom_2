@@ -36,4 +36,4 @@ class TestData:
         'password': '123456',
     }
 
-    invalid_ingredients = ['ingredient_1', 'ingredient_2', 'ingredient_3']
+    invalid_ingredients = ['ingredient1', 'ingredient2', 'ingredient3']
